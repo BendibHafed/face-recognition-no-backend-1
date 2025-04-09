@@ -1,7 +1,6 @@
 {
   "name": "facerecognitionbrain",
   "homepage": "https://BendibHafed.github.io/face-recognition-no-backend-1",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
